@@ -1,0 +1,53 @@
+
+<html>
+
+  <head>
+  <meta charset="utf-8">
+
+
+  <title>Resume: Vincent Harvey D.S. Santos</title>
+    
+  <link href="style.css" rel="stylesheet">
+
+  <meta name="viewport" content="width=device-width">
+<img height="50%" width="50%" src="">https://www.facebook.com/photo.php?fbid=1868261699884379&set=a.135864483124118.13336.100001017002985&type=3&theater</div>
+       <h1> Vincent Harvey D.S. Santos </h1>
+    </div>
+<ul><li>Address: Block 18, Lot 27, Phase3, Leo st., St. Agatha Homes, Tikay, City of Malolos, Bulacan </li>
+  <li>Contact Number: +639161910572</li>
+<li>Email: santosvincentharvey@gmail.com</li>
+    </ul>
+  </section>
+  <section class=”my-skills”>
+      <h2> Summary of Skills</h2>
+    <h3>Programming</h3>
+     <ol>
+       <li>Basic knowledge about htmls</li>
+    </ol>
+    <h3>Graphics and designs</h3>
+    <ol><li>Basic knowledge in Adobe Photoshops</li>
+    <li>Proficient in Canva</li></ol>
+    <h3>Video editing</h3>
+    <ol> <li>Basic skills in Adobe Premiere</li>
+    <li>Proficient in VSDC</li></ol>
+  </section>
+  <section class=”my-work-experience”>
+       <h2>Work Experience</h2>
+    <p><b>Crew member, Boy Scouts </b> July 2016 – March 2017</p>                                              
+	<ul><li>Receiving duties/orders that are ordered by the scout leader</li>
+	<li>Transferring information that are needed by the crew leader</li>
+	<li>Assisting and guiding lower levels through daily duties</li> 
+</ul>
+  </section>
+  <section class=”my-education”>
+       <h2>Education</h2>
+    <p>Junior High School:</p>
+      <b>Holy Spirit Academy of Malolos</b>
+    <p>Bagong Bayan, City of Malolos, Bulacan</p>
+<p>June 2013 – March 2017
+</p>
+	
+  </section>
+</body>
+
+</html>
