@@ -1,49 +1,88 @@
 
-<html>
+<!DOCTYPE html>
+<!--This is an HTML document. -->
 
-  <head>
+<head>
+  <!-- This tells the browser how to read the document. -->
   <meta charset="utf-8">
 
+  <!-- Tells the browser what the title of this page should be. -->
+  <title>Resume: Julie Bulan</title>
 
-  <title>Resume: Vincent Harvey D.S. Santos</title>
-    
+  <!-- Load the page styles. -->
   <link href="style.css" rel="stylesheet">
 
   <meta name="viewport" content="width=device-width">
-<img src="">https://kohsamui.construction/site/2014/08/photo.png</div>
-       <h1> Vincent Harvey D.S. Santos </h1>
-    </div>
-<ul><li>Address: Block 18, Lot 27, Phase3, Leo st., St. Agatha Homes, Tikay, City of Malolos, Bulacan </li>
-  <li>Contact Number: +639161910572</li>
-<li>Email: santosvincentharvey@gmail.com</li>
-    </ul>
+
+</head>
+
+<body>
+ 
+  <div>  
+<center><img src = "https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/28576000_1603561849678830_9202569809958272341_n.jpg?_nc_eui2=v1%3AAeF1xCUW2M-5Oo8q7ww8f3KFSWouFSa3cAAzT2qgwcm4-ku83hgGjINiJG7q9uxvlk6FwZN44WvlVyd7tCbYgxB-R8kkW86mxM_H7PpLACpj8VD7ZdYTAAFSTbJaZwQov5Y&oh=a4bd05636c079356fc8b8f1a26fd1524&oe=5B3D0745"  width = "200" height = "200">
+  <h2> JULIE ANN M. BULAN </h2></center> </div>
+  <section class=”about-me”>
+     
+    <h2> About Me </h2>
+<ul>
+<li> Address : De Jesus Compund Jasmin St. Barangay Cofradia City of Malolos, Bulacan </li>
+<li> Contact no: 09050467027/ (044)235-7027</li>
+ <li> Email : bulanjulie11@gmail.com </li>
+</ul>
   </section>
   <section class=”my-skills”>
-      <h2> Summary of Skills</h2>
-    <h3>Creative</h3>
-    <h3>Graphics and designs</h3>
-    <ol><li>Basic knowledge in Adobe Photoshops</li>
-    <li>Proficient in Canva</li></ol>
-    <h3>Video editing</h3>
-    <h3>Good communicator</h3>
+    <h2> My Skills </h2>
+<ol>
+  <li> Editorial Cartoonist </li>
+  <li> A good counselor </li>
+  <li> Creative </li>
+  <li> Versatile </li>
+  <li> Good in manipulating figures and perspectives </li>
+  <li> Diligent worker </li>
+  <li>Capable of leading a group </li>
+  <li> Posseses good speaking skills </li>
+</ol>
+  
   </section>
   <section class=”my-work-experience”>
        <h2>Work Experience</h2>
-    <p><b>Crew member, Boy Scouts </b> July 2016 – March 2017</p>                                              
-	<ul><li>Receiving duties/orders that are ordered by the scout leader</li>
-	<li>Transferring information that are needed by the crew leader</li>
-	<li>Assisting and guiding lower levels through daily duties</li> 
-</ul>
+    Holy Spirit Academy of Malolos <br>
+    Bagong Bayan City of Malolos, Bulacan <br>
+    Student Assistant (April 2013 - April 2017)<br>
+    <ul>
+      <li> Managing confidential files of new and old students and creating student directory each year.</li>
+      <li> Supervising test examinees and presenting the results to the parents or guardian present.</li>
+      <li>Decorating bulletin and announcement boards before enrolment days. </li>
+      <li> Decoding necessary data from EQ test results for each student every year.</li>
+    </ul>
+    
+    Northwing Export Corporation <br>
+    First Bulacan Industrial City, Tikay, Malolos, Bulacan <br>
+    Packaging Team Jr. (March 2012)<br>
+    <ul>
+      <li> Packaging small and handy items to be exported. </li>
+      <li> Checking, identifying and rejecting defective items </li>
+     </ul>
   </section>
   <section class=”my-education”>
- <h2>Education</h2>
+       <h2>Education</h2>
       <p> Grade School: <b> Holy Spirit Academy of Malolos </b></p>
       <p> Highschool: <b>Holy Spirit Academy of Malolos </b><br>
     Junior Highschool (Blessed Josepha Service Award)<br>
     (June 2016-March 2017)</p>
-
-	
   </section>
+  
+  <h3>Graphics</h3>
+ <ol>
+    <li>Proficient with Photoshop</li>
+    <li>An expert Blender user</li>
+</ol>
+<h3>Video Editing</h3>
+ <ol>
+    <li>Proficient with iMovie</li>
+    <li>Proficient with Adobe Premiere</li>
+</ol>
+
 </body>
 
 </html>
